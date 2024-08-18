@@ -26,3 +26,8 @@ asdf install poetry 1.8.3
 python -V
 poetry -V
 ```
+
+# Examples to study
+
+- [Kafka](/kafka/README.md)
+- - [Kafka Python Client](/kafka/client-kafka-python/README.md)
